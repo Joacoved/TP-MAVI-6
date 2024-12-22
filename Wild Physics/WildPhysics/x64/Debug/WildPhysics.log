@@ -1,0 +1,15 @@
+﻿  Pblue.cpp
+  Pyellow.cpp
+  WP.cpp
+C:\Users\blood\source\repos\WildPhysics\WildPhysics\WP.cpp(83,73): warning C4244: 'argumento': conversión de 'int' a 'T'; posible pérdida de datos
+C:\Users\blood\source\repos\WildPhysics\WildPhysics\WP.cpp(83,73): warning C4244:         with
+C:\Users\blood\source\repos\WildPhysics\WildPhysics\WP.cpp(83,73): warning C4244:         [
+C:\Users\blood\source\repos\WildPhysics\WildPhysics\WP.cpp(83,73): warning C4244:             T=float
+C:\Users\blood\source\repos\WildPhysics\WildPhysics\WP.cpp(83,73): warning C4244:         ]
+C:\Users\blood\source\repos\WildPhysics\WildPhysics\WP.cpp(83,54): warning C4244: 'argumento': conversión de 'int' a 'T'; posible pérdida de datos
+C:\Users\blood\source\repos\WildPhysics\WildPhysics\WP.cpp(83,54): warning C4244:         with
+C:\Users\blood\source\repos\WildPhysics\WildPhysics\WP.cpp(83,54): warning C4244:         [
+C:\Users\blood\source\repos\WildPhysics\WildPhysics\WP.cpp(83,54): warning C4244:             T=float
+C:\Users\blood\source\repos\WildPhysics\WildPhysics\WP.cpp(83,54): warning C4244:         ]
+  Generando código...
+  WildPhysics.vcxproj -> C:\Users\blood\source\repos\WildPhysics\x64\Debug\WildPhysics.exe

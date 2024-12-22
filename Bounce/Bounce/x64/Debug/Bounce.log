@@ -1,0 +1,3 @@
+﻿  BOUNCE.cpp
+C:\Users\blood\source\repos\Bounce\Bounce\BOUNCE.cpp(46,27): error C2065: 'groundY': identificador no declarado
+C:\Users\blood\source\repos\Bounce\Bounce\BOUNCE.cpp(47,26): error C2065: 'groundY': identificador no declarado
